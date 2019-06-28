@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      9611,        231]
-NotebookOptionsPosition[      7883,        189]
-NotebookOutlinePosition[      8686,        216]
-CellTagsIndexPosition[      8643,        213]
+NotebookDataLength[     10953,        271]
+NotebookOptionsPosition[      9185,        227]
+NotebookOutlinePosition[      9988,        254]
+CellTagsIndexPosition[      9945,        251]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -148,21 +148,15 @@ Cell[BoxData[{
    3.7706483844894037`*^9, 3.770648408310869*^9}, {3.770648474457296*^9, 
    3.77064849181185*^9}, {3.77064919951954*^9, 
    3.770649219260521*^9}},ExpressionUUID->"92722701-dbcc-4862-a47d-\
-86bf89a3b49c"],
+86bf89a3b49c"]
+}, Open  ]],
 
 Cell[CellGroupData[{
 
-Cell[BoxData[
- RowBox[{"3", "^", "27"}]], "Input",
- CellChangeTimes->{{3.7706481574877043`*^9, 3.770648158438786*^9}},
- CellLabel->"In[75]:=",ExpressionUUID->"1d9f00f2-e8d6-4b22-a742-fd33c4cb9455"],
-
-Cell[BoxData["7625597484987"], "Output",
- CellChangeTimes->{3.7706481589641933`*^9},
- CellLabel->"Out[75]=",ExpressionUUID->"60da25b6-0c38-477d-9030-f0fa8aa60ff2"]
-}, Open  ]],
-
-Cell["", "Text",ExpressionUUID->"d9801f61-d2db-4e1f-87f1-a87139e658a1"],
+Cell["Ideas", "Section",
+ CellChangeTimes->{{3.770737983396517*^9, 
+  3.770737985037842*^9}},ExpressionUUID->"e5261ef5-abfb-4a92-979c-\
+5d7b196db170"],
 
 Cell["\<\
 Possible measures of similarity:
@@ -177,12 +171,56 @@ Possible measures of similarity:
 -downres images and compare
 -compare other image transformations
 -growth rate
--density of some color per some areas\
+-density of some color per some areas
+
+Computationally mine for transformations that can measure similarity
+Train neural network by training on manually annotated similarities
+Allow computer to automatically find and weight different transformations to \
+find which match manual classifications best
+Matrix transformations
+Distance between matrices
+Similarity of transformations
+Check for similar pieces in different rules
+Switch rules mid automata and determine behavior
+Count rules used most/least, could be similar if less-used rules are replaced \
+or with the same common replacements
+\t\
 \>", "Text",
  CellChangeTimes->{{3.770648545919918*^9, 3.770648669111628*^9}, {
   3.770648937255227*^9, 3.770648975299624*^9}, {3.770649085012147*^9, 
-  3.770649100678235*^9}},ExpressionUUID->"118f8cc0-a682-4db9-a2c6-\
+  3.770649100678235*^9}, {3.770734140563921*^9, 3.770734179725507*^9}, {
+  3.770734248443027*^9, 3.770734249516519*^9}, {3.770734400333447*^9, 
+  3.7707344139687433`*^9}, {3.770734863850732*^9, 3.770734867427404*^9}, {
+  3.770735123348193*^9, 3.7707351331853333`*^9}, {3.770737742042692*^9, 
+  3.770737904335071*^9}},ExpressionUUID->"118f8cc0-a682-4db9-a2c6-\
 983f37f04133"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Schedule", "Section",
+ CellChangeTimes->{{3.77073799083663*^9, 
+  3.7707379927974863`*^9}},ExpressionUUID->"16e44e31-1fd2-4042-b4ca-\
+6aefb7e3d617"],
+
+Cell["\<\
+6/28: Schedule and ideas
+6/29: Analysis of idea possibilities
+6/30: Feasibility analysis and algorithm prototyping
+7/1: Transformation algorithms
+7/2: Similarity algorithms
+7/3: Generalize algorithms
+7/4: Machine learning methods
+7/5: Machine learning training
+7/6: Machine learning testing
+7/7: Revise algorithms
+7/8: Efficacy testing
+7/9: Finalized project
+7/10: Presentation practice and polish\
+\>", "Text",
+ CellChangeTimes->{{3.770737997149371*^9, 
+  3.7707382459906816`*^9}},ExpressionUUID->"515e60b0-eb17-4611-91da-\
+aba5fc1639c0"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
@@ -223,13 +261,15 @@ Cell[1298, 38, 354, 6, 54, "Subtitle",ExpressionUUID->"b70c649b-a958-4202-9f22-2
 Cell[CellGroupData[{
 Cell[1677, 48, 159, 3, 68, "Section",ExpressionUUID->"420e30a5-409f-4bb4-91af-db1810c316f0"],
 Cell[1839, 53, 1112, 17, 180, "Text",ExpressionUUID->"3dd1b898-56ff-4cc7-9565-c4367fa3b96d"],
-Cell[2954, 72, 3841, 78, 193, "Input",ExpressionUUID->"92722701-dbcc-4862-a47d-86bf89a3b49c"],
-Cell[CellGroupData[{
-Cell[6820, 154, 197, 3, 31, "Input",ExpressionUUID->"1d9f00f2-e8d6-4b22-a742-fd33c4cb9455"],
-Cell[7020, 159, 163, 2, 35, "Output",ExpressionUUID->"60da25b6-0c38-477d-9030-f0fa8aa60ff2"]
+Cell[2954, 72, 3841, 78, 193, "Input",ExpressionUUID->"92722701-dbcc-4862-a47d-86bf89a3b49c"]
 }, Open  ]],
-Cell[7198, 164, 71, 0, 36, "Text",ExpressionUUID->"d9801f61-d2db-4e1f-87f1-a87139e658a1"],
-Cell[7272, 166, 571, 18, 324, "Text",ExpressionUUID->"118f8cc0-a682-4db9-a2c6-983f37f04133"]
+Cell[CellGroupData[{
+Cell[6832, 155, 150, 3, 68, "Section",ExpressionUUID->"e5261ef5-abfb-4a92-979c-5d7b196db170"],
+Cell[6985, 160, 1417, 35, 588, "Text",ExpressionUUID->"118f8cc0-a682-4db9-a2c6-983f37f04133"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8439, 200, 154, 3, 68, "Section",ExpressionUUID->"16e44e31-1fd2-4042-b4ca-6aefb7e3d617"],
+Cell[8596, 205, 549, 17, 324, "Text",ExpressionUUID->"515e60b0-eb17-4611-91da-aba5fc1639c0"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
