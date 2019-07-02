@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    112917,       2794]
-NotebookOptionsPosition[    111236,       2751]
-NotebookOutlinePosition[    112040,       2778]
-CellTagsIndexPosition[    111997,       2775]
+NotebookDataLength[    112925,       2797]
+NotebookOptionsPosition[    111244,       2754]
+NotebookOutlinePosition[    112048,       2781]
+CellTagsIndexPosition[    112005,       2778]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -304,11 +304,11 @@ Cell[BoxData[{
    3.771081685649589*^9, 3.771081701105802*^9}, {3.771081759414233*^9, 
    3.771081781046382*^9}, {3.771081920400188*^9, 3.771081923433948*^9}},
  CellLabel->
-  "In[1816]:=",ExpressionUUID->"92722701-dbcc-4862-a47d-86bf89a3b49c"],
+  "In[1926]:=",ExpressionUUID->"92722701-dbcc-4862-a47d-86bf89a3b49c"],
 
 Cell[BoxData[
  TemplateBox[{TagBox[
-    GridBox[{{"3193045631869"}, {
+    GridBox[{{"7483604893045"}, {
        GraphicsBox[{{{
            InsetBox[
             GraphicsBox[{{
@@ -336,9 +336,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[
-                  NCache[
-                   Rational[1, 2], 0.5]], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -380,7 +378,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -462,7 +460,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -506,7 +506,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[0], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -548,7 +550,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[0], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -588,7 +592,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -630,7 +636,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[0], 
+                 GrayLevel[1], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -670,7 +676,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -712,7 +718,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[0], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -800,7 +808,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -844,7 +854,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[0], 
+                 GrayLevel[1], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -890,9 +900,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[
-                  NCache[
-                   Rational[1, 2], 0.5]], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1024,7 +1032,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1066,7 +1076,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1106,9 +1116,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[
-                  NCache[
-                   Rational[1, 2], 0.5]], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1150,9 +1158,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[
-                  NCache[
-                   Rational[1, 2], 0.5]], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1192,7 +1198,9 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[
+                  NCache[
+                   Rational[1, 2], 0.5]], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1234,7 +1242,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[1], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1360,9 +1368,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[
-                  NCache[
-                   Rational[1, 2], 0.5]], 
+                 GrayLevel[1], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1404,9 +1410,7 @@ Cell[BoxData[
                EdgeForm[
                 GrayLevel[
                  NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                 GrayLevel[
-                  NCache[
-                   Rational[1, 2], 0.5]], 
+                 GrayLevel[0], 
                  RectangleBox[
                   NCache[{
                     Rational[-1, 2], 
@@ -1480,22 +1484,20 @@ Cell[BoxData[
         Large]}, {
        GraphicsBox[
         RasterBox[CompressedData["
-1:eJxdltFVLDEMQ213QguUQgnbAP3/MbGulF3e4cHMJE5iWZLz9fr9eU1VffN/
-+vz083ufuvf39FQ/gzvw/DyjZ+r5u09n4vNyZpx/c4Jbq+3rWaD3oaod+DyO
-lj9xZ+190HCdBXSM5zmBfZYen6PYgqVOwBl43lpJ7PT9wDl6A84Gu9QmqDdH
-n+mbL8dUQO+uZ3A2xQ12dO9im5/wEx4C8OSy+ypY0Sdcqeo4xoMD7xeCAUjp
-C8stiPEoMFJ9iqx1emWs1TsjwQgc6kZrpLRt8GjTYCf6hBXcVEWVQHgoTeUE
-pEqboaEaM8xxmuac6LIogp9Jw3svECQ5E2YolaVISAOeSynVSQyGGcscUURY
-iHOCRhRkFVVeO7b4LUi07K4pRChTUbo3yRgS0VtrCvJxfGAVlUC+GawyjevG
-W3cNr4yqjiO8YUC5XghNeAXVuara9CX8QZmV0heSqCiYACmRs43BXak34oeg
-DKNEAy/qqPQLrwnCMJQpK04uorCgDUHiOFaikIM5ruGEq6mL9b4LXRdJDceI
-uS5Dco3CMb26NQwv94gLyPBhcKHCNanh5aVhqnyIf+pE1BDb6IpPVT6UTQ8j
-NgvH8L8BMnDemaOCTbXQ5JtPjQWFqJp+gNu0VYgZGBCgwD9XW3abqLCzYcOR
-ZjoCrWsixXbZUHiGMWpMcjvoznbmGU2kXBR0+caIbCfA00Tq2sJVLHT3doou
-gBFD8NtyX7ANs52tHn8cbLYq9A3dvZ3mpJds87Ji55PuwLwFnjS/nrql+Uf3
-pjmPVSuzK5cmK5ru3ATa1oy6mZDC0TOtnNvxbp5jXzG5Qvd4BjhK3jrZpB+l
-Z354hlsgLmNiW8u+fCAFX4ZInBYz+HwsJODrcjSdxPEg7hq2kDL4XJO4DKnQ
-beEpJApWpcbXGRrAefkD94MLdA==
+1:eJxdVtF1JDEIk9TJtZBSUkIaSP9/tzZI4Lx72Z3zYCOEkPffz+/3jwB89R9A
+iBTv0/kW7vNd7o+zgBNSz3ep1u733Xz2sj9uCG9ITj45hMpVm2+Oe+Rn7YTg
+huTkYDCCc06D1U2qCoGCz+nVGy6QBkk4/fluFEnvDQWDndjpWVjP6jm7OVPt
+6CJQb8xhYWHVYc56j4sgN4dMKwpRgxVXEXg4zPaLCAG7i3g5rMYUz4S54lME
+vTt8NM/3nVHDWnHHw6G6Wr8LamuF+TSD59jOVFwhMBq2P4sNN0cYfXHAoCiE
+qzEf1bjoa4FpCuU+Dh/c+lpgikykj24qEZTVoYAx0HSQppJGeZENmAyCsaSp
+QXkTK2DUQN3Baf2gdOTIa4l4jc+gREdGXjPKIwkslB6sJa/IMOPTXVQrpx6W
+vJYfRcLyPCmRS17Lj3x004GxCo28Hj/y0R3NWIUNgGMnHKblecJYxTRoDCFM
+W1Qlsolc1hdgy3JsYDvyj6maAVsOrMLw/ddUY6jFvA0sZdpGRhWRLVyQdqSN
+YJmqX7UtaKVM4+PpwtKimjy+kZGqrXxpEch0rMiRalv50iJn346cybGVB2he
+yNPgirk6aQbqbJM3wpT1si+EuX9D3ghTgfDearKzq6dxhIn0A1myJmDBbGEi
+xhz88M3cObpoR44xr58Srffc4k8kYszgywA9rXoiBdcx12KItyjlHwlOXciX
+B7ou48qPBNsbcy2OQvuATOvkYDsZVqNTl6dVWDlyufW2KDQH0leiPq/00YPU
+5Nd/JCv0ruP++w/NSQl1
          "], {{0, 0}, {50, 50}}, {0, 2}], Frame -> 
         Automatic, FrameLabel -> {None, None}, 
         FrameTicks -> {{None, None}, {None, None}}, GridLinesStyle -> 
@@ -1518,7 +1520,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
       "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], "Column"],
    RowBox[{"{", 
      TagBox[
-      GridBox[{{"3193045690918"}, {
+      GridBox[{{"7483604853679"}, {
          GraphicsBox[{{{
              InsetBox[
               GraphicsBox[{{
@@ -1546,9 +1548,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[
-                    NCache[
-                    Rational[1, 2], 0.5]], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1590,7 +1590,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[1], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1672,7 +1672,9 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[1], 
+                   GrayLevel[
+                    NCache[
+                    Rational[1, 2], 0.5]], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1716,7 +1718,9 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[0], 
+                   GrayLevel[
+                    NCache[
+                    Rational[1, 2], 0.5]], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1758,7 +1762,9 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[0], 
+                   GrayLevel[
+                    NCache[
+                    Rational[1, 2], 0.5]], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1798,7 +1804,9 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[1], 
+                   GrayLevel[
+                    NCache[
+                    Rational[1, 2], 0.5]], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1840,7 +1848,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[0], 
+                   GrayLevel[1], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1880,7 +1888,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[1], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -1922,7 +1930,9 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[0], 
+                   GrayLevel[
+                    NCache[
+                    Rational[1, 2], 0.5]], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2010,7 +2020,9 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[1], 
+                   GrayLevel[
+                    NCache[
+                    Rational[1, 2], 0.5]], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2054,7 +2066,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[0], 
+                   GrayLevel[1], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2100,9 +2112,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[
-                    NCache[
-                    Rational[1, 2], 0.5]], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2318,9 +2328,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[
-                    NCache[
-                    Rational[1, 2], 0.5]], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2362,9 +2370,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[
-                    NCache[
-                    Rational[1, 2], 0.5]], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2404,7 +2410,9 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[1], 
+                   GrayLevel[
+                    NCache[
+                    Rational[1, 2], 0.5]], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2446,7 +2454,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[1], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2572,9 +2580,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[
-                    NCache[
-                    Rational[1, 2], 0.5]], 
+                   GrayLevel[1], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2616,9 +2622,7 @@ beEpJApWpcbXGRrAefkD94MLdA==
                  EdgeForm[
                   GrayLevel[
                    NCache[-1 + GoldenRatio, 0.6180339887498949]]], {{
-                   GrayLevel[
-                    NCache[
-                    Rational[1, 2], 0.5]], 
+                   GrayLevel[0], 
                    RectangleBox[
                     NCache[{
                     Rational[-1, 2], 
@@ -2693,23 +2697,22 @@ beEpJApWpcbXGRrAefkD94MLdA==
           Large]}, {
          GraphicsBox[
           RasterBox[CompressedData["
-1:eJxVVtGVwzAMQmxyK9woN0IX6P5/FwuQnNf2tUlsJAGS+/P5/n0I4NefAlio
-/oDnyXP9/Hx+P991HqIfPRc8L1wbyvvP2udb+8++3tN3z+ssqPNRlN6vZeyH
-Z5/29N0O3li9vaGVCxuJjtuZ6m5vbaziXQuNdHZ1iNxtSGNNFHGBvB0CTvQE
-Cla9aulf/e4Qp3Q0+I31roWNfkiBKcYsGyxCrHVkoytL0dXlv7C8wHwYPSEk
-VKNcWF1eCY+0WFHxlAtturBkDdV6bgDDOMsUvrD6GqbTbqK5GaqsCpJur9Lz
-dhOSZajST2LTveikGHCWDhg6k64VGsfWlaUCKh971zxvrUXbAym9yhVGSoza
-wYT4g/0HeD0jJV+1SmTIt2kn5wFnLa5q3JfW5fSyc7PaCFdLpzp/iA6O1Vbn
-37WWL4ZoSuZp7kjEyKQLlRpsTxi1cblHY3DWRflgl6aJtjRPYwoNiKF8sOkO
-wvA0PaSsh3JhA9NBmmNLlA28lDP9IWOk63mHaI4WavpDetOe4h2is18oveUV
-q1rpr1UkNqKs7kaDh7EMyVUk1sv4wdhCJvEsjiIZhTM9bv1juRSj2Db4Tg97
-0SNhFXES7ja5JYOjNGJTeGisFcpu2cExtngrwjgXsdEODljjuhUxxbGUzxG5
-WCaawiMmVYQ7O+dIqkt30LAlVVXUSh0XM0enD7J0eYrwKIm/6EGr3lo5YYMz
-OZq+HKM5PsdyiME9BBVZaY+1cpDtkT5FMJHNJedfRAySI32K0F3XPH5JG9pQ
-ryI8z/JXw5huAFUIe9NFZLRZZGFqXQyi3VuEW21Edvv7/GUOoinCf5zG3a1M
-d17Oy0xhdxgzhGbg1Yyvits9oVSEzp/CDtR/mU4K/g==
-           "], {{0, 0}, {50, 
-           50}}, {0, 2}], Frame -> Automatic, FrameLabel -> {None, None}, 
+1:eJxlVtlh60AIHOjktZBSUkIaSP9/z1rmYBXHiSx5F5gDNv9+fr9/GsAXf+vz
+7mpUFZ738+e8utC+OV+clZ/redx17ppPz+vZdII925+IZ+VZfHbyDkw0G+f7
+Pgm5Es1iqiZHTaIJx2Bnr8pmOtYfHAIxwTAVMSTXKIdwEMQE++zuhHxiDRkX
+DlF3FmCAnmhTAJKDOEzdLCdQh8TKIRxOMIXDXJUYXzhGvuBshUjII/nCsUCU
+inhJDH3g3oCgTvWWOB8Q+YpK0wMJCWqjwm8QsAdWyA4gsrhAxAMJWRLGCpfV
+NoevkL0AYdlp68SQ6JcwVFhv6xStOybeCpdBNlx2iYtxnT0bENEp7qQfkKSW
+KZ1BYoWD8jupZRJv07C3Z6+kuHOcRqJoyMhYLYGdQ400PmCiuEb1Yic44SUa
+B8nzYLVEXzimpT02ll3SEl1L8JEqPmjbZbfEFhxsdnC+2S53S2yi+FDzTXzD
+LbFSu3OEx9V6tpYa7jJV8DAgqXRLFF6msjEUUCoKBP6YSscHFZFcqvcSfDii
+O8aslsv1/jWV3ME2siUrU+XGEXfI06/D6RacHIkBj7UQYlNHrMgqAIs80kEK
+o7kZIICQl8G4GKvFAJHOparitc2YCjQAzsNGxWtQG+7z2+NmXyQ4lGOf3x43
+upSCDyfxTi0GgMplnYT8j8L+DgPAujRUPmW0v80A21RDtV0+ZIo5JXPuFdbF
+GYSvFN9tpzZ1t7Z3yAiVskpuazmr2AHoz1f9EbWbBc9Nt8bLeY7z8x+/YQm2
+
+           "], {{0, 0}, {50, 50}}, {0, 2}], Frame -> Automatic, 
+          FrameLabel -> {None, None}, 
           FrameTicks -> {{None, None}, {None, None}}, GridLinesStyle -> 
           Directive[
             GrayLevel[0.5, 0.4]], ImageSize -> Large, 
@@ -2736,9 +2739,9 @@ d17Oy0xhdxgzhGbg1Yyvits9oVSEzp/CDtR/mU4K/g==
    3.7710809454479856`*^9, 3.771081023630031*^9}, 3.771081085807077*^9, 
    3.771081433621846*^9, 3.771081475729247*^9, {3.771081585677718*^9, 
    3.77108159242513*^9}, 3.771081781803385*^9, {3.771081863631291*^9, 
-   3.771081935363206*^9}},
+   3.771081935363206*^9}, {3.771082061544441*^9, 3.771082091186557*^9}},
  CellLabel->
-  "Out[1837]=",ExpressionUUID->"dcc414b1-9bb7-4831-b062-c6fe23d4d392"]
+  "Out[1947]=",ExpressionUUID->"805efd74-999e-488f-af92-a427072d1ee8"]
 }, Open  ]],
 
 Cell[BoxData[""], "Input",
@@ -2790,9 +2793,9 @@ Cell[CellGroupData[{
 Cell[3046, 75, 148, 3, 68, "Section",ExpressionUUID->"72d85bb0-55d3-47eb-9722-d0af15851cf8"],
 Cell[CellGroupData[{
 Cell[3219, 82, 9908, 224, 561, "Input",ExpressionUUID->"92722701-dbcc-4862-a47d-86bf89a3b49c"],
-Cell[13130, 308, 97899, 2432, 790, "Output",ExpressionUUID->"dcc414b1-9bb7-4831-b062-c6fe23d4d392"]
+Cell[13130, 308, 97907, 2435, 823, "Output",ExpressionUUID->"805efd74-999e-488f-af92-a427072d1ee8"]
 }, Open  ]],
-Cell[111044, 2743, 152, 3, 31, "Input",ExpressionUUID->"bfccf7a1-0940-48b7-9b5e-f8b1c22a2856"]
+Cell[111052, 2746, 152, 3, 31, "Input",ExpressionUUID->"bfccf7a1-0940-48b7-9b5e-f8b1c22a2856"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
